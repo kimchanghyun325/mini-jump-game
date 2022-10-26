@@ -1,1 +1,1 @@
-# mini-jump-game
+# shooting-jump-game
